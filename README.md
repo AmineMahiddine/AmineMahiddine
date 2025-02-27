@@ -1,7 +1,7 @@
 <code>
 <div align="center">
 <h2> Hi there! I am Amine</h2>
-<h3>  Front-end Developer and An Artificial Intelligence Master Student</h3>
+<h3>  Data Scientist / front end developer</h3>
 </div>
 <div align="center">
 <!-- <img max-width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/Github%20Profile.png"/> -->
